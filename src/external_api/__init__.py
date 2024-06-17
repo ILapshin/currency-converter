@@ -1,0 +1,1 @@
+from .freecurrencyapi import get_currency_rate
